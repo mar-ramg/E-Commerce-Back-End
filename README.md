@@ -21,9 +21,6 @@ A mysql database and application backend for an e-commerce site. Built using MyS
 - WHEN I test API POST, PUT, and DELETE routes in Insomnia
 - THEN I am able to successfully create, update, and delete data in my database
 
-# Gifs
-
-
 # Installation
 - npm init
 - npm install mysql2
